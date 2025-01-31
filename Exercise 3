@@ -1,4 +1,4 @@
-#Code is by Chatgpt
+//Code is by Chatgpt
 /* Example 3: Precision Loss in a Function */
 #include <stdio.h>
 #include <math.h>

@@ -1,4 +1,4 @@
-#Code is by Chatgpt
+//Code is by Chatgpt
 /* Example 2: Quadratic Equation */
 #include <stdio.h>
 #include <math.h>
@@ -20,6 +20,6 @@ void solve_quadratic(double a, double b, double c) {
 }
 
 int main() {
-    solve_quadratic(1, 108, 1);
+    solve_quadratic(1, 10e8, 1);
     return 0;
 }
