@@ -1,8 +1,10 @@
+#include <stdio.h>
+
 int main () {
 double a = 2.0;
-for ( int i = 0; i < 10; i ++)
+for ( int i = 0; i < 10; i++)
 {
-a -= 1e -16;
+a -= 1e-16;
 }
-printf (" result = %0.15 lf\n",a ) ;
+printf ("result = %0.15lf\n",a) ;
 }
